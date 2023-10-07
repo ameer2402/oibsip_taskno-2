@@ -140,7 +140,7 @@ nav ul li a:hover::after{
     filter: blur(3px);
 }
 .about22 .a:hover{
-    transform: scale(1.3);
+    transform: scale(1.1);
     opacity: 1;
     filter: blur(0px);
     z-index: 2;
